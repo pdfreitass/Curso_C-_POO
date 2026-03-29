@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula-07-Estrutura de decisão", "Aula-07-Estrutura de decisão\Aula-07-Estrutura de decisão.csproj", "{81483B6D-DEE3-4E6E-9945-F4E0FA109390}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81483B6D-DEE3-4E6E-9945-F4E0FA109390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81483B6D-DEE3-4E6E-9945-F4E0FA109390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81483B6D-DEE3-4E6E-9945-F4E0FA109390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81483B6D-DEE3-4E6E-9945-F4E0FA109390}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84D480E0-AC6A-49C6-87E9-9DF7125F9308}
+	EndGlobalSection
+EndGlobal
